@@ -22,6 +22,7 @@ class SidebarInc extends HTMLElement {
           						<div class="menu-item-content">
             							<ul>
               								<li><a href="index.html">Index</a></li>
+              								<li><a href="essays.html">Essays</a></li>
             							</ul>
           						</div>
         				</details>
